@@ -1,0 +1,15 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node scraper.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "images-scraper": "^5.0.7",
+    "progress": "^2.0.3",
+    "prompts": "^2.3.2"
+  }
+}
